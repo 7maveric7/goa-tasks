@@ -1,3 +1,3 @@
-emocia = "რაღაც ემოცია"
+emocia = "ძაან მაგარია!"
 print(emocia)
 
