@@ -1,0 +1,1 @@
+zarmaca = 5 #bali
