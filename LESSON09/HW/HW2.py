@@ -1,0 +1,6 @@
+x = int(input('შემოიტანე პირველი რიცხვი '))
+y = int(input('შემოიტანე მეორე რიცხვი '))
+print(str(x)+' + '+str(y)+' = '+str(x+y))
+print(str(x)+' - '+str(y)+' = '+str(x-y))
+print(str(x)+' * '+str(y)+' = '+str(x*y))
+print(str(x)+' : '+str(y)+' = '+str(x/y))
