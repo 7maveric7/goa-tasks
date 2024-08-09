@@ -1,0 +1,5 @@
+a = True and False # true (True and False შედეგია true)
+b = False or True # ture (False or True შედეგია true)
+c = True and True # ture (True and True შედეგია true)
+d = False or True # ture (False or True შედეგია true)   
+e = True or True # ture (True or True შედეგია true)
