@@ -1,0 +1,19 @@
+.img1{
+    background-color: rgb(202, 43, 226);
+    border-radius: 10px;
+}
+.img2{
+    background-color: rgb(36, 196, 34);
+    border-radius: 10px;
+}
+.img3{
+    background-color: rgb(43, 70, 226);
+    border-radius: 10px;
+}
+.img4{
+    background-color: rgb(254, 0, 0);
+    border-radius: 10px;
+}
+.tobi, .tba, .mta, .grubeli{
+    border-radius: 10px;
+}
